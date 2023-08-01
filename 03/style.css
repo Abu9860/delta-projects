@@ -1,0 +1,33 @@
+*{
+font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color: #1b74e4;
+
+}
+#searchbtn{
+    background-color: rgb(64, 235, 92);
+    color: white;
+    border-radius: 5%;
+    border: none;
+    padding: 5px 15px;
+    text-align: center;
+    font-size: 14px;
+}
+.userbtn{
+    background-color: aqua;
+}
+
+.out{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.mouth{
+    background-color: black;
+    height: 20px;
+    width: 50px;
+    border-radius: 0 0 200px 200px;
+}
